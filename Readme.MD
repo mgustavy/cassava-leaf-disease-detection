@@ -1,1 +1,1 @@
-My cassava lead disease detection with traditional
+My cassava lead disease detection with traditional ML models
